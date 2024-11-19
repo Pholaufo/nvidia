@@ -1,6 +1,3 @@
-"""
-Script to benchmark model throughput and latency
-"""
 import os
 import numpy as np
 from tqdm import tqdm
